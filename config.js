@@ -1,1 +1,1 @@
-console.log("congiguring");
+console.log("configuring");
